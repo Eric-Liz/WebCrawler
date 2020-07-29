@@ -1,2 +1,0 @@
-# WebCrawler
-Infomoney Java WebCrawler
