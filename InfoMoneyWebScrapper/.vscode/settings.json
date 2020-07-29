@@ -1,6 +1,0 @@
-{
-    "include": [
-        "lib/jsoup-1.13.1.jar",
-        "/home/username/lib/foo.jar"
-    ],
-}
