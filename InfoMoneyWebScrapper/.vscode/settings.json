@@ -1,8 +1,6 @@
 {
-    "files.exclude": {
-        "**/.classpath": true,
-        "**/.project": true,
-        "**/.settings": true,
-        "**/.factorypath": true
-    }
+    "include": [
+        "lib/jsoup-1.13.1.jar",
+        "/home/username/lib/foo.jar"
+    ],
 }
